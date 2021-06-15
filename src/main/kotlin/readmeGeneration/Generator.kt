@@ -17,6 +17,8 @@ class Generator {
         fun createReadMe(): String {
             val sb = StringBuilder()
             sb.appendLine("# Solved problems")
+            sb.appendLine("> LeetCode problems solved in Kotlin.")
+            sb.appendLine()
             val solutions = getSolutions()
 
             writeDifficultiesCount(solutions, sb)
