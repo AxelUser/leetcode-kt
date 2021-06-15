@@ -1,4 +1,6 @@
 # Solved problems
+> LeetCode problems solved in Kotlin.
+
 Easy: 3, Easy: 4, Easy: 3
 
 Name | Difficulty | Solution
