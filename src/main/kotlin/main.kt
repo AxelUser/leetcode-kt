@@ -1,3 +1,8 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+import readmeGeneration.Generator
+import java.io.File
+
+fun main() {
+    val readMe = Generator.createReadMe()
+    val file = File("ReadMe.md")
+    file.writeText(readMe)
 }
