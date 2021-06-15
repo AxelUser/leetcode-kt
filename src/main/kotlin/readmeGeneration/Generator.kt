@@ -6,9 +6,11 @@ import java.util.*
 
 class Generator {
     private data class Solution(
+        val number: Int,
         val problemName: String,
         val difficulty: ProblemDifficulty,
         val link: String,
+        val solution: String
     )
 
     companion object {
@@ -30,9 +32,11 @@ class Generator {
             val solutionAnnotations = reflections.getTypesAnnotatedWith(ProblemSolution::class.java)
 
             return solutionAnnotations
-                .map { clazz -> clazz.annotations.single { it is ProblemSolution } as ProblemSolution }
+                .map { clazz ->
+                    val a = clazz.annotations.single { it is ProblemSolution } as ProblemSolution
+                    Solution(a.number, a.problemName, a.difficulty, a.link, "src/main/kotlin/solutions/" + clazz.packageName.substringAfterLast('.'))
+                }
                 .sortedBy { it.number }
-                .map { Solution("${it.number}. ${it.problemName}", it.difficulty, it.link) }
         }
 
         private fun writeDifficultiesCount(
@@ -56,15 +60,15 @@ class Generator {
             solutions: List<Solution>,
             sb: StringBuilder
         ) {
-            sb.appendLine("Name | Difficulty")
-            sb.appendLine("--- | ---")
+            sb.appendLine("Name | Difficulty | Solution")
+            sb.appendLine("--- | --- | ---")
 
             for (s in solutions) {
-                sb.appendLine("[${s.problemName}](${s.link}) | ${s.difficulty.name.lowercase().replaceFirstChar {
+                sb.appendLine("[${s.number}. ${s.problemName}](${s.link}) | ${s.difficulty.name.lowercase().replaceFirstChar {
                     if (it.isLowerCase()) it.titlecase(
                         Locale.getDefault()
                     ) else it.toString()
-                }}")
+                }} | [Source](${s.solution})")
             }
         }
     }
