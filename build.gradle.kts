@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "me.axelu"
+group = "space.maltsev"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -16,6 +16,8 @@ dependencies {
     testImplementation(kotlin("test"))
     testImplementation(platform("org.junit:junit-bom:5.7.2"))
     testImplementation("org.junit.jupiter:junit-jupiter")
+
+    implementation("org.reflections:reflections:0.9.11")
 }
 
 tasks.test {
