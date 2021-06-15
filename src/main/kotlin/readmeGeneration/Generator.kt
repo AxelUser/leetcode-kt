@@ -17,6 +17,8 @@ class Generator {
         fun createReadMe(): String {
             val sb = StringBuilder()
             sb.appendLine("# Solved problems")
+            sb.appendLine("> LeetCode problems solved in Kotlin.")
+            sb.appendLine()
             val solutions = getSolutions()
 
             writeDifficultiesCount(solutions, sb)
@@ -50,8 +52,8 @@ class Generator {
             if (easyCount > 0 || mediumCount > 0 || hardCount > 0) {
                 sb.appendLine(arrayOf(
                     if (easyCount > 0) "Easy: $easyCount" else "",
-                    if (mediumCount > 0) "Easy: $mediumCount" else "",
-                    if (hardCount > 0) "Easy: $hardCount" else "",
+                    if (mediumCount > 0) "Medium: $mediumCount" else "",
+                    if (hardCount > 0) "Hard: $hardCount" else "",
                 ).filter { it.isNotEmpty() }.joinToString(postfix = System.lineSeparator()))
             }
         }

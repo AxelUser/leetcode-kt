@@ -5,4 +5,5 @@ fun main() {
     val readMe = Generator.createReadMe()
     val file = File("ReadMe.md")
     file.writeText(readMe)
+    print("Updated ReadMe file")
 }
