@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Easy: 3, Medium: 5, Hard: 3
+Easy: 3, Medium: 6, Hard: 3
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -14,5 +14,6 @@ Name | Difficulty | Solution
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Source](src/main/kotlin/solutions/regularExpressionMatching)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/solutions/containerWithMostWater)
 [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/solutions/threeSum)
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/solutions/letterCombinationsOfPhoneNumber)
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
