@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Easy: 4, Medium: 7, Hard: 3
+Easy: 5, Medium: 7, Hard: 3
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -17,5 +17,6 @@ Name | Difficulty | Solution
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/solutions/letterCombinationsOfPhoneNumber)
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Source](src/main/kotlin/solutions/removeNthNodeFromEndOfList)
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Source](src/main/kotlin/solutions/validParentheses)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Source](src/main/kotlin/solutions/mergeTwoSortedLists)
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
