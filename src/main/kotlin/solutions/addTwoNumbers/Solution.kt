@@ -2,10 +2,7 @@ package solutions.addTwoNumbers
 
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
+import solutions.common.ListNode
 
 @ProblemSolution(2, "Add Two Numbers", ProblemDifficulty.MEDIUM, "https://leetcode.com/problems/add-two-numbers/")
 class Solution {
