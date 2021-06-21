@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Easy: 5, Medium: 8, Hard: 3
+Easy: 6, Medium: 8, Hard: 3
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -13,6 +13,7 @@ Name | Difficulty | Solution
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Source](src/main/kotlin/solutions/reverseInt)
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Source](src/main/kotlin/solutions/regularExpressionMatching)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/solutions/containerWithMostWater)
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Source](src/main/kotlin/solutions/longestCommonPrefix)
 [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/solutions/threeSum)
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/solutions/letterCombinationsOfPhoneNumber)
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Source](src/main/kotlin/solutions/removeNthNodeFromEndOfList)
