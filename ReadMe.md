@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Easy: 7, Medium: 8, Hard: 3
+Easy: 8, Medium: 8, Hard: 3
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -11,6 +11,7 @@ Name | Difficulty | Solution
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Source](src/main/kotlin/solutions/findMedianSortedArrays)
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Source](src/main/kotlin/solutions/longestPalindrome)
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Source](src/main/kotlin/solutions/reverseInt)
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Source](src/main/kotlin/solutions/palindromeNumber)
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Source](src/main/kotlin/solutions/regularExpressionMatching)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/solutions/containerWithMostWater)
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Source](src/main/kotlin/solutions/longestCommonPrefix)
