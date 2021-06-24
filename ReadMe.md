@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Easy: 8, Medium: 9, Hard: 3
+Total: 21, Easy: 8, Medium: 10, Hard: 3.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -24,4 +24,5 @@ Name | Difficulty | Solution
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Source](src/main/kotlin/solutions/removeDuplicatesFromSortedArray)
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Source](src/main/kotlin/solutions/nextPermutation)
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses)
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
