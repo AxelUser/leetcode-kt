@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 22, Easy: 9, Medium: 10, Hard: 3.
+Total: 23, Easy: 9, Medium: 11, Hard: 3.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -27,3 +27,4 @@ Name | Difficulty | Solution
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs)
+[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum)
