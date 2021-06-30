@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 30, Easy: 11, Medium: 15, Hard: 4.
+Total: 31, Easy: 11, Medium: 15, Hard: 5.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -34,4 +34,5 @@ Name | Difficulty | Solution
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum)
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/solutions/longestIncreasingSubsequence)
+[1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/solutions/shortestCommonSupersequence)
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Source](src/main/kotlin/solutions/longestCommonSubsequence)
