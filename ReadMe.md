@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 32, Easy: 11, Medium: 15, Hard: 6.
+Total: 33, Easy: 11, Medium: 16, Hard: 6.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -31,6 +31,7 @@ Name | Difficulty | Solution
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Source](src/main/kotlin/solutions/jumpGame)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance)
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock)
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum)
