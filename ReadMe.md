@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 35, Easy: 11, Medium: 18, Hard: 6.
+Total: 36, Easy: 11, Medium: 19, Hard: 6.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -33,6 +33,7 @@ Name | Difficulty | Solution
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/solutions/mergeIntervals)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance)
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/solutions/sortColors)
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock)
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2)
