@@ -10,28 +10,23 @@ class Solution {
         val m = word1.length
         val n = word2.length
 
-        val tab = Array(m + 1) { IntArray(n + 1) }
+        val tab = Array(2) { IntArray(n + 1) { it } }
 
+        var curRow = 0
         for (i in 1 .. m) {
-            tab[i][0] = i
-        }
-
-        for (j in 1 .. n) {
-            tab[0][j] = j
-        }
-
-        for (i in 1 .. m) {
+            curRow = i and 1
+            tab[curRow][0] = i
             for (j in 1 .. n) {
                 val replacementCost = if (word1[i - 1] == word2[j - 1]) 0 else 1
 
-                tab[i][j] = minOf(
-                    tab[i][j - 1] + 1,                  // insertion
-                    tab[i - 1][j] + 1,                  // deletion
-                    tab[i - 1][j - 1] + replacementCost // replace
+                tab[curRow][j] = minOf(
+                    tab[curRow][j - 1] + 1,                  // insertion
+                    tab[1 - curRow][j] + 1,                  // deletion
+                    tab[1 - curRow][j - 1] + replacementCost // replace
                 )
             }
         }
 
-        return tab[m][n]
+        return tab[curRow][n]
     }
 }
