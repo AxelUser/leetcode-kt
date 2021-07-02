@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 34, Easy: 11, Medium: 17, Hard: 6.
+Total: 35, Easy: 11, Medium: 18, Hard: 6.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -30,6 +30,7 @@ Name | Difficulty | Solution
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/solutions/rotateImage)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Source](src/main/kotlin/solutions/jumpGame)
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/solutions/mergeIntervals)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance)
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees)
