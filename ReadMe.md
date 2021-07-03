@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 36, Easy: 11, Medium: 19, Hard: 6.
+Total: 37, Easy: 12, Medium: 19, Hard: 6.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -22,6 +22,7 @@ Name | Difficulty | Solution
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Source](src/main/kotlin/solutions/mergeTwoSortedLists)
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Source](src/main/kotlin/solutions/generateParentheses)
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Source](src/main/kotlin/solutions/removeDuplicatesFromSortedArray)
+[27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Source](src/main/kotlin/solutions/removeElement)
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Source](src/main/kotlin/solutions/nextPermutation)
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses)
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray)
