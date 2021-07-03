@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 37, Easy: 12, Medium: 19, Hard: 6.
+Total: 38, Easy: 13, Medium: 19, Hard: 6.
 
 Name | Difficulty | Solution
 --- | --- | ---
@@ -27,6 +27,7 @@ Name | Difficulty | Solution
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses)
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray)
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/findFirstAndLastPositionOfElementInSortedArray)
+[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Source](src/main/kotlin/solutions/searchInsertPosition)
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Source](src/main/kotlin/solutions/trappingRainWater)
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/solutions/rotateImage)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray)
