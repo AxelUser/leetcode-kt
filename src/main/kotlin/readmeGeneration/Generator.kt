@@ -63,15 +63,15 @@ class Generator {
             solutions: List<Solution>,
             sb: StringBuilder
         ) {
-            sb.appendLine("Name | Difficulty | Solution")
-            sb.appendLine("--- | --- | ---")
+            sb.appendLine("| Name | Difficulty | Solution |")
+            sb.appendLine("| --- | --- | --- |")
 
             for (s in solutions) {
-                sb.appendLine("[${s.number}. ${s.problemName}](${s.link}) | ${s.difficulty.name.lowercase().replaceFirstChar {
+                sb.appendLine("| [${s.number}. ${s.problemName}](${s.link}) | ${s.difficulty.name.lowercase().replaceFirstChar {
                     if (it.isLowerCase()) it.titlecase(
                         Locale.getDefault()
                     ) else it.toString()
-                }} | [Source](${s.solution})")
+                }} | [Source](${s.solution}) |")
             }
         }
     }
