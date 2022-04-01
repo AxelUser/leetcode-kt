@@ -18,6 +18,17 @@ fun Array<Int>.toListNode(): ListNode? {
     return root
 }
 
+fun ListNode?.get(index: Int): ListNode? {
+    var count = 0
+    var cur = this
+    while (cur != null) {
+        if (index == count++) return cur
+        cur = cur.next
+    }
+
+    return null
+}
+
 fun ListNode?.toArray(): Array<Int> {
     if (this == null) {
         return arrayOf()
