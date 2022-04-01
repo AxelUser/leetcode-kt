@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 42, Easy: 15, Medium: 21, Hard: 6.
+Total: 43, Easy: 16, Medium: 21, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -41,6 +41,7 @@ Total: 42, Easy: 15, Medium: 21, Hard: 6.
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock) |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2) |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/solutions/reverseLinkedList) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/solutions/longestIncreasingSubsequence) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/solutions/decodeString) |
