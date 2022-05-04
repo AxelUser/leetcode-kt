@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 45, Easy: 17, Medium: 22, Hard: 6.
+Total: 46, Easy: 17, Medium: 23, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -30,6 +30,7 @@ Total: 45, Easy: 17, Medium: 22, Hard: 6.
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Source](src/main/kotlin/solutions/searchInsertPosition) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Source](src/main/kotlin/solutions/trappingRainWater) |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/solutions/rotateImage) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Source](src/main/kotlin/solutions/groupAnagrams) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray) |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Source](src/main/kotlin/solutions/jumpGame) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/solutions/mergeIntervals) |
