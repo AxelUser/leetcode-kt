@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 46, Easy: 17, Medium: 23, Hard: 6.
+Total: 47, Easy: 17, Medium: 24, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -43,6 +43,7 @@ Total: 46, Easy: 17, Medium: 23, Hard: 6.
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock) |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/solutions/linkedListCycle) |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/solutions/houseRobber) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/solutions/reverseLinkedList) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/solutions/longestIncreasingSubsequence) |
