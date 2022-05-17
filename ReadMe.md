@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 47, Easy: 17, Medium: 24, Hard: 6.
+Total: 48, Easy: 18, Medium: 24, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -36,6 +36,7 @@ Total: 47, Easy: 17, Medium: 24, Hard: 6.
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/solutions/mergeIntervals) |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Source](src/main/kotlin/solutions/lengthOfLastWord) |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Source](src/main/kotlin/solutions/plusOne) |
+| [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Source](src/main/kotlin/solutions/addBinary) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/solutions/sortColors) |
