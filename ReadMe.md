@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 48, Easy: 18, Medium: 24, Hard: 6.
+Total: 49, Easy: 19, Medium: 24, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -41,6 +41,7 @@ Total: 48, Easy: 18, Medium: 24, Hard: 6.
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/solutions/sortColors) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees) |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/solutions/pascalsTriangle) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock) |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock2) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/solutions/linkedListCycle) |
