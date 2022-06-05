@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 51, Easy: 19, Medium: 26, Hard: 6.
+Total: 52, Easy: 20, Medium: 26, Hard: 6.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -52,6 +52,7 @@ Total: 51, Easy: 19, Medium: 26, Hard: 6.
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumSizeSubarraySum) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/solutions/longestIncreasingSubsequence) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/solutions/coinChange) |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/solutions/countingBits) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/solutions/decodeString) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/solutions/partitionArrayForMaximumSum) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/solutions/shortestCommonSupersequence) |
