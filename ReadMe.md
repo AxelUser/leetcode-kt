@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 56, Easy: 20, Medium: 29, Hard: 7.
+Total: 57, Easy: 20, Medium: 30, Hard: 7.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -23,6 +23,7 @@ Total: 56, Easy: 20, Medium: 29, Hard: 7.
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Source](src/main/kotlin/solutions/generateParentheses) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Source](src/main/kotlin/solutions/removeDuplicatesFromSortedArray) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Source](src/main/kotlin/solutions/removeElement) |
+| [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium | [Source](src/main/kotlin/solutions/findTheIndexOfTheFirstOccurrenceInString) |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Source](src/main/kotlin/solutions/nextPermutation) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Source](src/main/kotlin/solutions/longestValidParentheses) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray) |
