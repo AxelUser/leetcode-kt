@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 55, Easy: 20, Medium: 28, Hard: 7.
+Total: 56, Easy: 20, Medium: 29, Hard: 7.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -28,6 +28,7 @@ Total: 55, Easy: 20, Medium: 28, Hard: 7.
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/searchInRotatedSortedArray) |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Source](src/main/kotlin/solutions/findFirstAndLastPositionOfElementInSortedArray) |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Source](src/main/kotlin/solutions/searchInsertPosition) |
+| [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Source](src/main/kotlin/solutions/countAndSay) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Source](src/main/kotlin/solutions/trappingRainWater) |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/solutions/rotateImage) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Source](src/main/kotlin/solutions/groupAnagrams) |
