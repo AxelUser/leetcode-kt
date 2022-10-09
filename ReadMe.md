@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 59, Easy: 20, Medium: 31, Hard: 8.
+Total: 60, Easy: 20, Medium: 32, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -33,6 +33,7 @@ Total: 59, Easy: 20, Medium: 31, Hard: 8.
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Source](src/main/kotlin/solutions/firstMissingPositive) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Source](src/main/kotlin/solutions/trappingRainWater) |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Source](src/main/kotlin/solutions/jumpGame2) |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [Source](src/main/kotlin/solutions/permutations) |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/solutions/rotateImage) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Source](src/main/kotlin/solutions/groupAnagrams) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/solutions/maxSubArray) |
