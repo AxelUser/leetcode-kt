@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 61, Easy: 20, Medium: 33, Hard: 8.
+Total: 62, Easy: 20, Medium: 34, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -43,6 +43,7 @@ Total: 61, Easy: 20, Medium: 33, Hard: 8.
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Source](src/main/kotlin/solutions/rotateList) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Source](src/main/kotlin/solutions/uniquePaths) |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Source](src/main/kotlin/solutions/uniquePaths2) |
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Source](src/main/kotlin/solutions/minimumPathSum) |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Source](src/main/kotlin/solutions/plusOne) |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Source](src/main/kotlin/solutions/addBinary) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/solutions/climbingStairs) |
