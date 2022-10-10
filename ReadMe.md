@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 60, Easy: 20, Medium: 32, Hard: 8.
+Total: 61, Easy: 20, Medium: 33, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -40,6 +40,7 @@ Total: 60, Easy: 20, Medium: 32, Hard: 8.
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Source](src/main/kotlin/solutions/jumpGame) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/solutions/mergeIntervals) |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Source](src/main/kotlin/solutions/lengthOfLastWord) |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Source](src/main/kotlin/solutions/rotateList) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Source](src/main/kotlin/solutions/uniquePaths) |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Source](src/main/kotlin/solutions/uniquePaths2) |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Source](src/main/kotlin/solutions/plusOne) |
