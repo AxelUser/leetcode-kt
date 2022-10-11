@@ -29,14 +29,14 @@ class Generator {
         }
 
         private fun getSolutions(): List<Solution> {
-            val reflections = Reflections("solutions")
+            val reflections = Reflections("problems")
 
             val solutionAnnotations = reflections.getTypesAnnotatedWith(ProblemSolution::class.java)
 
             return solutionAnnotations
                 .map { clazz ->
                     val a = clazz.annotations.single { it is ProblemSolution } as ProblemSolution
-                    Solution(a.number, a.problemName, a.difficulty, a.link, "src/main/kotlin/solutions/" + clazz.packageName.substringAfterLast('.'))
+                    Solution(a.number, a.problemName, a.difficulty, a.link, "src/main/kotlin/" + clazz.canonicalName.replace('.', '/') + ".kt")
                 }
                 .sortedBy { it.number }
         }
