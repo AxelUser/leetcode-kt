@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 62, Easy: 20, Medium: 34, Hard: 8.
+Total: 63, Easy: 20, Medium: 35, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -50,6 +50,7 @@ Total: 62, Easy: 20, Medium: 34, Hard: 8.
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/solutions/editDistance) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/solutions/sortColors) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/solutions/wordSearch) |
+| [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/solutions/removeDuplicatesFromSortedArray2) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/solutions/uniqueBinarySearchTrees) |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/solutions/pascalsTriangle) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/solutions/bestTimeToBuyAndSellStock) |
