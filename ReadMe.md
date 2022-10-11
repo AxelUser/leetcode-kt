@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 63, Easy: 20, Medium: 35, Hard: 8.
+Total: 65, Easy: 22, Medium: 35, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -61,6 +61,8 @@ Total: 63, Easy: 20, Medium: 35, Hard: 8.
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/minimumSizeSubarraySum/Solution.kt) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/problems/coinChange/Solution.kt) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |

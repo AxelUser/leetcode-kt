@@ -29,7 +29,7 @@ class Generator {
         }
 
         private fun getSolutions(): List<Solution> {
-            val reflections = Reflections("problems")
+            val reflections = Reflections("problems", "design")
 
             val solutionAnnotations = reflections.getTypesAnnotatedWith(ProblemSolution::class.java)
 
