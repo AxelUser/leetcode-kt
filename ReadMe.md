@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 66, Easy: 22, Medium: 36, Hard: 8.
+Total: 67, Easy: 22, Medium: 37, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -38,6 +38,7 @@ Total: 66, Easy: 22, Medium: 36, Hard: 8.
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Source](src/main/kotlin/problems/rotateImage/Solution.kt) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Source](src/main/kotlin/problems/groupAnagrams/Solution.kt) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Source](src/main/kotlin/problems/maxSubArray/Solution.kt) |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Source](src/main/kotlin/problems/spiralMatrix/Solution.kt) |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Source](src/main/kotlin/problems/jumpGame/Solution.kt) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Source](src/main/kotlin/problems/mergeIntervals/Solution.kt) |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Source](src/main/kotlin/problems/lengthOfLastWord/Solution.kt) |
