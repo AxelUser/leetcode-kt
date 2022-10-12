@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 65, Easy: 22, Medium: 35, Hard: 8.
+Total: 66, Easy: 22, Medium: 36, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ Total: 65, Easy: 22, Medium: 35, Hard: 8.
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Source](src/main/kotlin/problems/findMedianSortedArrays/Solution.kt) |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Source](src/main/kotlin/problems/longestPalindrome/Solution.kt) |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Source](src/main/kotlin/problems/reverseInt/Solution.kt) |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Source](src/main/kotlin/problems/stringToInteger/Solution.kt) |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Source](src/main/kotlin/problems/palindromeNumber/Solution.kt) |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Source](src/main/kotlin/problems/regularExpressionMatching/Solution.kt) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/problems/containerWithMostWater/Solution.kt) |
