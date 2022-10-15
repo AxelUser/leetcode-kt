@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 71, Easy: 23, Medium: 39, Hard: 9.
+Total: 72, Easy: 23, Medium: 40, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -52,6 +52,7 @@ Total: 71, Easy: 23, Medium: 39, Hard: 9.
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/problems/climbingStairs/Solution.kt) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/problems/editDistance/Solution.kt) |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Source](src/main/kotlin/problems/setMatrixZeroes/Solution.kt) |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Source](src/main/kotlin/problems/searchA2DMatrix/Solution.kt) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/problems/sortColors/Solution.kt) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/problems/wordSearch/Solution.kt) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/removeDuplicatesFromSortedArray2/Solution.kt) |
