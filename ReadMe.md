@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 74, Easy: 23, Medium: 42, Hard: 9.
+Total: 75, Easy: 24, Medium: 42, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -59,6 +59,7 @@ Total: 74, Easy: 23, Medium: 42, Hard: 9.
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Source](src/main/kotlin/problems/mergeSortedArray/Solution.kt) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/problems/uniqueBinarySearchTrees/Solution.kt) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Source](src/main/kotlin/problems/validateBinarySearchTree/Solution.kt) |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Source](src/main/kotlin/problems/symmetricTree/Solution.kt) |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [Source](src/main/kotlin/problems/flattenBinaryTreeToLinkedList/Solution.kt) |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/problems/pascalsTriangle/Solution.kt) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStock/Solution.kt) |
