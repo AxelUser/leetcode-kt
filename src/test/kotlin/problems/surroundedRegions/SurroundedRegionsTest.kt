@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
+import problems.utils.stringifyMatrix
 
 internal class SurroundedRegionsTest {
 
@@ -11,14 +12,7 @@ internal class SurroundedRegionsTest {
     @MethodSource("args")
     fun solve(board: Array<CharArray>, expected: Array<CharArray>) {
         Solution().solve(board)
-        assertEquals(expected.asString(), board.asString())
-    }
-
-    private fun Array<CharArray>.asString(): String = this.joinToString(prefix = "[", postfix = "]") {
-        it.joinToString(
-            prefix = "[",
-            postfix = "]"
-        )
+        assertEquals(expected.stringifyMatrix(), board.stringifyMatrix())
     }
 
     companion object {

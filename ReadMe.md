@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 70, Easy: 23, Medium: 38, Hard: 9.
+Total: 71, Easy: 23, Medium: 39, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -51,6 +51,7 @@ Total: 70, Easy: 23, Medium: 38, Hard: 9.
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Source](src/main/kotlin/problems/addBinary/Solution.kt) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Source](src/main/kotlin/problems/climbingStairs/Solution.kt) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Source](src/main/kotlin/problems/editDistance/Solution.kt) |
+| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Source](src/main/kotlin/problems/setMatrixZeroes/Solution.kt) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/problems/sortColors/Solution.kt) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/problems/wordSearch/Solution.kt) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/removeDuplicatesFromSortedArray2/Solution.kt) |

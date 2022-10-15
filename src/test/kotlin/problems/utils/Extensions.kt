@@ -43,3 +43,24 @@ fun ListNode?.toArray(): Array<Int> {
 
     return list.toTypedArray()
 }
+
+fun Array<CharArray>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
+    it.joinToString(
+        prefix = "\t",
+        postfix = System.lineSeparator()
+    )
+}
+
+fun Array<IntArray>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
+    it.joinToString(
+        prefix = "\t",
+        postfix = System.lineSeparator()
+    )
+}
+
+fun <T> Array<Array<T>>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
+    it.joinToString(
+        prefix = "\t",
+        postfix = System.lineSeparator()
+    )
+}
