@@ -84,23 +84,24 @@ fun TreeNode?.toArrayBfs(): Array<Int?> {
     return res.toTypedArray()
 }
 
-fun Array<CharArray>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
+fun Array<CharArray>.stringify2DArray(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
     it.joinToString(
         prefix = "\t",
         postfix = System.lineSeparator()
     )
 }
 
-fun Array<IntArray>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
+fun Array<IntArray>.stringify2DArray(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
     it.joinToString(
         prefix = "\t",
         postfix = System.lineSeparator()
     )
 }
 
-fun <T> Array<Array<T>>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
-    it.joinToString(
-        prefix = "\t",
-        postfix = System.lineSeparator()
-    )
-}
+fun <T> Array<Array<T>>.stringify2DArray(): String =
+    this.joinToString(separator = "", prefix = System.lineSeparator()) {
+        it.joinToString(
+            prefix = "\t",
+            postfix = System.lineSeparator()
+        )
+    }

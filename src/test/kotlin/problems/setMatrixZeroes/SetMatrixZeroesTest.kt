@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
-import problems.utils.stringifyMatrix
+import problems.utils.stringify2DArray
 
 internal class SetMatrixZeroesTest {
 
@@ -14,7 +14,7 @@ internal class SetMatrixZeroesTest {
         val actual = input.map { it.toIntArray() }.toTypedArray()
         Solution.setZeroes(actual)
 
-        assertEquals(expected.stringifyMatrix(), actual.stringifyMatrix())
+        assertEquals(expected.stringify2DArray(), actual.stringify2DArray())
     }
 
     companion object {

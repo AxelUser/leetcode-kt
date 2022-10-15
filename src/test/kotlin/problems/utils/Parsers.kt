@@ -1,6 +1,6 @@
 package problems.utils
 
-fun parseIntMatrix(string: String): Array<Array<Int>> {
+fun parseInt2DArray(string: String): Array<Array<Int>> {
     val rowRegex = Regex("\\[[\\d+,]+]")
     val numRegex = Regex("\\d+")
     val matrix = mutableListOf<Array<Int>>()
