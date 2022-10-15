@@ -1,6 +1,6 @@
 package problems.mergeKSortedLists
 
-import problems.common.ListNode
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
 

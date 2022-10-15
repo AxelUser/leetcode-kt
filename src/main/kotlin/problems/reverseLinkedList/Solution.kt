@@ -1,8 +1,8 @@
 package problems.reverseLinkedList
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(206, "Reverse Linked List", ProblemDifficulty.EASY, "https://leetcode.com/problems/reverse-linked-list/")
 class Solution {

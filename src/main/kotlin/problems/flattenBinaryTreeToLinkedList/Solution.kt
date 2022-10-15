@@ -1,6 +1,6 @@
 package problems.flattenBinaryTreeToLinkedList
 
-import problems.common.TreeNode
+import common.TreeNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
 import java.util.*

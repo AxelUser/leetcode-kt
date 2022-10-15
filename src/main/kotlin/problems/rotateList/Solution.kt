@@ -1,8 +1,8 @@
 package problems.rotateList
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(61, "Rotate List", ProblemDifficulty.MEDIUM, "https://leetcode.com/problems/rotate-list/")
 class Solution {

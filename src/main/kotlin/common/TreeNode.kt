@@ -1,4 +1,4 @@
-package problems.common
+package common
 
 class TreeNode(var `val`: Int) {
     var left: TreeNode? = null

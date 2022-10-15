@@ -1,8 +1,8 @@
 package problems.addTwoNumbers
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(2, "Add Two Numbers", ProblemDifficulty.MEDIUM, "https://leetcode.com/problems/add-two-numbers/")
 class Solution {
@@ -11,7 +11,7 @@ class Solution {
 
         var n1 = l1!!.next
         var n2 = l2!!.next
-        var parent = root
+        var parent: ListNode? = root
 
         while (n1 != null || n2 != null) {
             parent?.next = add(parent, n1, n2)
@@ -24,7 +24,7 @@ class Solution {
         return root
     }
 
-    private fun add(parent: ListNode?, n1: ListNode?, n2: ListNode?): ListNode? {
+    private fun add(parent: ListNode?, n1: ListNode?, n2: ListNode?): ListNode {
         val sum = (parent?.next?.`val` ?: 0) + (n1?.`val` ?: 0) + (n2?.`val` ?: 0)
 
         val cur = ListNode(sum % 10)

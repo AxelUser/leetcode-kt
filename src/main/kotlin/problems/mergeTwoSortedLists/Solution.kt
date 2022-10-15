@@ -1,8 +1,8 @@
 package problems.mergeTwoSortedLists
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(21, "Merge Two Sorted Lists", ProblemDifficulty.EASY,
     "https://leetcode.com/problems/merge-two-sorted-lists/")

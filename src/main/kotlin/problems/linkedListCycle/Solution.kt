@@ -1,8 +1,8 @@
 package problems.linkedListCycle
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(141, "Linked List Cycle", ProblemDifficulty.EASY, "https://leetcode.com/problems/linked-list-cycle/")
 class Solution {

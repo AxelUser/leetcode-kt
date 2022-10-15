@@ -1,7 +1,7 @@
 package problems.utils
 
-import problems.common.ListNode
-import problems.common.TreeNode
+import common.ListNode
+import common.TreeNode
 import java.util.*
 
 fun Array<Int>.toListNode(): ListNode? {

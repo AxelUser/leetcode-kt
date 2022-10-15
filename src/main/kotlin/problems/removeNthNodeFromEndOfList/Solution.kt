@@ -1,8 +1,8 @@
 package problems.removeNthNodeFromEndOfList
 
+import common.ListNode
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import problems.common.ListNode
 
 @ProblemSolution(19, "Remove Nth Node From End of List", ProblemDifficulty.MEDIUM,
     "https://leetcode.com/problems/remove-nth-node-from-end-of-list/")
