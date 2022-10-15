@@ -12,61 +12,49 @@ import java.util.*
 )
 class Solution {
     fun solve(board: Array<CharArray>) {
-        val visited = HashSet<Pair<Int, Int>>()
-        val flipped = HashSet<Pair<Int, Int>>()
-
+        // left & right
         for (y in board.indices) {
-            for (x in board[y].indices) {
-                if (visited.contains(y to x)) continue
+            bfs(board, y, 0)
+            bfs(board, y, board[y].size - 1)
+        }
 
-                dfs(board, y, x, visited, flipped)
-            }
+        // top & bottom
+        for (x in board[0].indices) {
+            bfs(board, 0, x)
+            bfs(board, board.size - 1, x)
         }
 
         for (y in board.indices) {
             for (x in board[y].indices) {
-                if (flipped.contains(y to x)) {
-                    board[y][x] = 'X'
+                when (board[y][x]) {
+                    'O' -> board[y][x] = 'X'
+                    'F' -> board[y][x] = 'O'
                 }
             }
         }
     }
 
-    private fun dfs(
-        board: Array<CharArray>,
-        sY: Int,
-        sX: Int,
-        visited: MutableSet<Pair<Int, Int>>,
-        flipped: MutableSet<Pair<Int, Int>>
-    ) {
-        val yMax = board.size - 1
-        val xMax = board[0].size - 1
-        val traversed = HashSet<Pair<Int, Int>>()
-        val stack = Stack<Pair<Int, Int>>()
-        stack.push(sY to sX)
-        var flip = true
+    private fun bfs(board: Array<CharArray>, sY: Int, sX: Int) {
+        val queue = LinkedList<Pair<Int, Int>>()
+        queue.add(sY to sX)
 
-        while (stack.isNotEmpty()) {
-            val (y, x) = stack.pop()
-            if (board[y][x] == 'X' || traversed.contains(y to x)) continue
-            traversed.add(y to x)
-            visited.add(y to x)
-
-            if (x > 0) stack.push(y to x - 1) // left
-            if (y > 0) stack.push(y - 1 to x) // up
-            if (x < xMax) stack.push(y to x + 1) // right
-            if (y < yMax) stack.push(y + 1 to x) // down
-
-            if (x == 0 || y == 0 || x == xMax || y == yMax) {
-                flip = false
-            }
+        while (queue.isNotEmpty()) {
+            val (y, x) = queue.removeFirst()
+            if (board[y][x] != 'O') continue
+            queue.addAll(board.getAdjacent(y, x))
+            board[y][x] = 'F'
         }
+    }
 
-        if (flip) {
-            for (yx in traversed) {
-                flipped.add(yx)
-            }
-        }
+    private fun Array<CharArray>.getAdjacent(y: Int, x: Int): Sequence<Pair<Int, Int>> {
+        val maxY = size - 1
+        val maxX = this[0].size - 1
 
+        return sequence {
+            if (x > 0) yield(y to x - 1)
+            if (y > 0) yield(y - 1 to x)
+            if (x < maxX) yield(y to x + 1)
+            if (y < maxY) yield(y + 1 to x)
+        }.filter { (y, x) -> this[y][x] == 'O' }
     }
 }

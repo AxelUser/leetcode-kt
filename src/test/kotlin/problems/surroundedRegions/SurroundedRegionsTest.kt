@@ -36,7 +36,20 @@ internal class SurroundedRegionsTest {
                     "XXXX".toCharArray(),
                     "XOXX".toCharArray()
                 )
-            )
+            ),
+            Arguments.of(
+                arrayOf(
+                    "XOXOXO".toCharArray(),
+                    "OXOXOX".toCharArray(),
+                    "XOXOXO".toCharArray(),
+                    "OXOXOX".toCharArray()
+                ), arrayOf(
+                    "XOXOXO".toCharArray(),
+                    "OXXXXX".toCharArray(),
+                    "XXXXXO".toCharArray(),
+                    "OXOXOX".toCharArray()
+                )
+            ),
         )
     }
 }
