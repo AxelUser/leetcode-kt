@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 68, Easy: 23, Medium: 37, Hard: 8.
+Total: 69, Easy: 23, Medium: 38, Hard: 8.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -58,6 +58,7 @@ Total: 68, Easy: 23, Medium: 37, Hard: 8.
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/problems/pascalsTriangle/Solution.kt) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStock/Solution.kt) |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStock2/Solution.kt) |
+| [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Source](src/main/kotlin/problems/surroundedRegions/Solution.kt) |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [Source](src/main/kotlin/problems/wordBreak/Solution.kt) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/problems/linkedListCycle/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
