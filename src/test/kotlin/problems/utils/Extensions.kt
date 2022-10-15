@@ -1,6 +1,8 @@
 package problems.utils
 
 import problems.common.ListNode
+import problems.common.TreeNode
+import java.util.*
 
 fun Array<Int>.toListNode(): ListNode? {
     var root: ListNode? = null
@@ -42,6 +44,44 @@ fun ListNode?.toArray(): Array<Int> {
     }
 
     return list.toTypedArray()
+}
+
+fun Array<Int?>.toBinaryTreeBfs(): TreeNode? {
+    if (isEmpty() || first() == null) return null
+
+    val root = TreeNode(first()!!)
+    val queue = LinkedList<TreeNode>()
+    queue.add(root)
+    var i = 1
+    while (i < size) {
+        val node = queue.pop()
+        node.left = this[i++]?.let { `val` ->
+            TreeNode(`val`).also { queue.add(it) }
+        }
+        node.right = this[i++]?.let { `val` ->
+            TreeNode(`val`).also { queue.add(it) }
+        }
+
+    }
+
+    return root
+}
+
+fun TreeNode?.toArrayBfs(): Array<Int?> {
+    if (this == null) return emptyArray()
+
+    val res = LinkedList<Int?>()
+    val queue: Queue<TreeNode?> = LinkedList<TreeNode?>()
+    queue.add(this)
+    while (queue.isNotEmpty()) {
+        val node = queue.poll()
+        res.add(node?.`val`)
+        if (node == null || (node.left ?: node.right) == null) continue
+        queue.add(node.left)
+        queue.add(node.right)
+    }
+
+    return res.toTypedArray()
 }
 
 fun Array<CharArray>.stringifyMatrix(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {
