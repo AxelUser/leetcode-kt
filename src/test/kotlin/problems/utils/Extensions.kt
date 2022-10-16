@@ -21,6 +21,7 @@ fun Array<Int>.toListNode(): ListNode? {
 }
 
 fun ListNode?.get(index: Int): ListNode? {
+    if (index < 0) return null
     var count = 0
     var cur = this
     while (cur != null) {
@@ -29,6 +30,25 @@ fun ListNode?.get(index: Int): ListNode? {
     }
 
     return null
+}
+
+fun ListNode?.tail(): ListNode? {
+    if (this == null) return null
+
+    var cur = this
+    while (cur?.next != null) {
+        cur = cur.next
+    }
+
+    return cur
+}
+
+fun ListNode?.loop(loopStartPos: Int): ListNode? {
+    val loopStart = get(loopStartPos) ?: return this
+    val tail = tail() ?: return this
+    tail.next = loopStart
+
+    return this
 }
 
 fun ListNode?.toArray(): Array<Int> {
