@@ -8,7 +8,7 @@ fun Array<Int>.toListNode(): ListNode? {
     var root: ListNode? = null
     var cur: ListNode? = null
     for (dig in this) {
-        if(root == null) {
+        if (root == null) {
             root = ListNode(dig)
             cur = root
         } else {
@@ -74,11 +74,16 @@ fun TreeNode?.toArrayBfs(): Array<Int?> {
     val queue: Queue<TreeNode?> = LinkedList<TreeNode?>()
     queue.add(this)
     while (queue.isNotEmpty()) {
-        val node = queue.poll()
-        res.add(node?.`val`)
-        if (node == null || (node.left ?: node.right) == null) continue
-        queue.add(node.left)
-        queue.add(node.right)
+        val lvlSize = queue.size
+        val lvl = ArrayList<Int?>(lvlSize)
+        for (i in 0 until lvlSize) {
+            val node = queue.poll()
+            lvl.add(node?.`val`)
+            if (node == null) continue
+            queue.add(node.left)
+            queue.add(node.right)
+        }
+        if (lvl.any { it != null }) res.addAll(lvl)
     }
 
     return res.toTypedArray()

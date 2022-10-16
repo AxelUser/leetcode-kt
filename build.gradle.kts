@@ -13,12 +13,11 @@ repositories {
 }
 
 dependencies {
-    implementation("org.junit.jupiter:junit-jupiter:5.8.1")
     testImplementation(kotlin("test"))
-    testImplementation(platform("org.junit:junit-bom:5.7.2"))
-    testImplementation("org.junit.jupiter:junit-jupiter")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.9.0")
+    testImplementation("junit:junit:4.13.2")
 
-    implementation("org.reflections:reflections:0.9.11")
+    implementation("org.reflections:reflections:0.10.2")
 }
 
 tasks.test {
@@ -30,5 +29,5 @@ tasks.withType<KotlinCompile> {
 }
 
 application {
-    mainClassName = "MainKt"
+    mainClass.set("MainKt")
 }
