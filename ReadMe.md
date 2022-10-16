@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 78, Easy: 25, Medium: 44, Hard: 9.
+Total: 79, Easy: 25, Medium: 45, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -70,6 +70,7 @@ Total: 78, Easy: 25, Medium: 44, Hard: 9.
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Source](src/main/kotlin/problems/surroundedRegions/Solution.kt) |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [Source](src/main/kotlin/problems/wordBreak/Solution.kt) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/problems/linkedListCycle/Solution.kt) |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/minimumSizeSubarraySum/Solution.kt) |
