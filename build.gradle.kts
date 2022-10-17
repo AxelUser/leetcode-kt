@@ -13,15 +13,18 @@ repositories {
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
-    testImplementation("org.junit.jupiter:junit-jupiter:5.9.0")
-    testImplementation("junit:junit:4.13.2")
-
     implementation("org.reflections:reflections:0.10.2")
+
+    testImplementation(kotlin("test"))
+    testImplementation(platform("org.junit:junit-bom:5.9.1"))
+    testImplementation("org.junit.jupiter:junit-jupiter")
 }
 
 tasks.test {
     useJUnitPlatform()
+    testLogging {
+        events("skipped", "failed")
+    }
 }
 
 tasks.withType<KotlinCompile> {
@@ -31,3 +34,5 @@ tasks.withType<KotlinCompile> {
 application {
     mainClass.set("MainKt")
 }
+
+defaultTasks("build", "run")
