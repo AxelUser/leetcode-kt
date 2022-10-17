@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 80, Easy: 25, Medium: 46, Hard: 9.
+Total: 81, Easy: 25, Medium: 47, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -78,6 +78,7 @@ Total: 80, Easy: 25, Medium: 46, Hard: 9.
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
+| [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/problems/coinChange/Solution.kt) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
