@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 84, Easy: 26, Medium: 49, Hard: 9.
+Total: 85, Easy: 26, Medium: 50, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -74,6 +74,7 @@ Total: 84, Easy: 26, Medium: 49, Hard: 9.
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Source](src/main/kotlin/problems/linkedListCycle2/Solution.kt) |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/problems/findMinimumInRotatedSortedArray/Solution.kt) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/minimumSizeSubarraySum/Solution.kt) |
