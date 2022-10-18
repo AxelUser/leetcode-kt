@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 85, Easy: 26, Medium: 50, Hard: 9.
+Total: 86, Easy: 26, Medium: 51, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -76,6 +76,7 @@ Total: 85, Easy: 26, Medium: 50, Hard: 9.
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Source](src/main/kotlin/problems/numberOfIslands/Solution.kt) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/minimumSizeSubarraySum/Solution.kt) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
