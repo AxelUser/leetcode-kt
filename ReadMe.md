@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 90, Easy: 27, Medium: 54, Hard: 9.
+Total: 91, Easy: 27, Medium: 55, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -75,6 +75,7 @@ Total: 90, Easy: 27, Medium: 54, Hard: 9.
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Source](src/main/kotlin/problems/linkedListCycle2/Solution.kt) |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/problems/findMinimumInRotatedSortedArray/Solution.kt) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
+| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Source](src/main/kotlin/problems/findPeakElement/Solution.kt) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Source](src/main/kotlin/problems/largestNumber/Solution.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
