@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 88, Easy: 26, Medium: 53, Hard: 9.
+Total: 89, Easy: 27, Medium: 53, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -63,6 +63,7 @@ Total: 88, Easy: 26, Medium: 53, Hard: 9.
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Source](src/main/kotlin/problems/binaryTreeLevelOrderTraversal/Solution.kt) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/maximumDepthOfBinaryTree/Solution.kt) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Source](src/main/kotlin/problems/constructBinaryTreeFromPreorderAndInorderTraversal/Solution.kt) |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Source](src/main/kotlin/problems/pathSum/Solution.kt) |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [Source](src/main/kotlin/problems/flattenBinaryTreeToLinkedList/Solution.kt) |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/problems/pascalsTriangle/Solution.kt) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStock/Solution.kt) |
