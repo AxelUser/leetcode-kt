@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 91, Easy: 27, Medium: 55, Hard: 9.
+Total: 92, Easy: 27, Medium: 56, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ Total: 91, Easy: 27, Medium: 55, Hard: 9.
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Source](src/main/kotlin/problems/palindromeNumber/Solution.kt) |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Source](src/main/kotlin/problems/regularExpressionMatching/Solution.kt) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/problems/containerWithMostWater/Solution.kt) |
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Source](src/main/kotlin/problems/integerToRoman/Solution.kt) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Source](src/main/kotlin/problems/longestCommonPrefix/Solution.kt) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/problems/threeSum/Solution.kt) |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/problems/letterCombinationsOfPhoneNumber/Solution.kt) |
