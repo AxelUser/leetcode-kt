@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 98, Easy: 32, Medium: 57, Hard: 9.
+Total: 99, Easy: 33, Medium: 57, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -58,6 +58,7 @@ Total: 98, Easy: 32, Medium: 57, Hard: 9.
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/problems/wordSearch/Solution.kt) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/removeDuplicatesFromSortedArray2/Solution.kt) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Source](src/main/kotlin/problems/mergeSortedArray/Solution.kt) |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Source](src/main/kotlin/problems/binaryTreeInorderTraversal/Solution.kt) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/problems/uniqueBinarySearchTrees/Solution.kt) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Source](src/main/kotlin/problems/validateBinarySearchTree/Solution.kt) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Source](src/main/kotlin/problems/symmetricTree/Solution.kt) |

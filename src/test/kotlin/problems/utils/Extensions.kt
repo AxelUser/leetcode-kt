@@ -78,10 +78,12 @@ fun Array<Int?>.toBinaryTreeBfs(): TreeNode? {
         node.left = this[i++]?.let { `val` ->
             TreeNode(`val`).also { queue.add(it) }
         }
-        node.right = this[i++]?.let { `val` ->
-            TreeNode(`val`).also { queue.add(it) }
-        }
 
+        if (i < size) {
+            node.right = this[i++]?.let { `val` ->
+                TreeNode(`val`).also { queue.add(it) }
+            }
+        }
     }
 
     return root
