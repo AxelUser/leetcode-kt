@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 99, Easy: 33, Medium: 57, Hard: 9.
+Total: 100, Easy: 34, Medium: 57, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -97,6 +97,7 @@ Total: 99, Easy: 33, Medium: 57, Hard: 9.
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Source](src/main/kotlin/problems/topKFrequentElements/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
