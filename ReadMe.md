@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 96, Easy: 30, Medium: 57, Hard: 9.
+Total: 97, Easy: 31, Medium: 57, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -86,6 +86,7 @@ Total: 96, Easy: 30, Medium: 57, Hard: 9.
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Source](src/main/kotlin/problems/containsDuplicate2/Solution.kt) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Source](src/main/kotlin/problems/invertBinaryTree/Solution.kt) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Source](src/main/kotlin/problems/moveZeroes/Solution.kt) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
