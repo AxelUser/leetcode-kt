@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 97, Easy: 31, Medium: 57, Hard: 9.
+Total: 98, Easy: 32, Medium: 57, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -88,6 +88,7 @@ Total: 97, Easy: 31, Medium: 57, Hard: 9.
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Source](src/main/kotlin/problems/invertBinaryTree/Solution.kt) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Source](src/main/kotlin/problems/palindromeLinkedList/Solution.kt) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Source](src/main/kotlin/problems/moveZeroes/Solution.kt) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
