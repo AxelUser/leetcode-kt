@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 94, Easy: 28, Medium: 57, Hard: 9.
+Total: 95, Easy: 29, Medium: 57, Hard: 9.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -83,6 +83,7 @@ Total: 94, Easy: 28, Medium: 57, Hard: 9.
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Source](src/main/kotlin/problems/numberOfIslands/Solution.kt) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/minimumSizeSubarraySum/Solution.kt) |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Source](src/main/kotlin/problems/containsDuplicate2/Solution.kt) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
