@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 100, Easy: 34, Medium: 57, Hard: 9.
+Total: 101, Easy: 34, Medium: 57, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -55,6 +55,7 @@ Total: 100, Easy: 34, Medium: 57, Hard: 9.
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Source](src/main/kotlin/problems/setMatrixZeroes/Solution.kt) |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Source](src/main/kotlin/problems/searchA2DMatrix/Solution.kt) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Source](src/main/kotlin/problems/sortColors/Solution.kt) |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Source](src/main/kotlin/problems/minimumWindowSubstring/Solution.kt) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/problems/wordSearch/Solution.kt) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/removeDuplicatesFromSortedArray2/Solution.kt) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Source](src/main/kotlin/problems/mergeSortedArray/Solution.kt) |
