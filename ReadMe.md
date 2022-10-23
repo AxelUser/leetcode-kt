@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 102, Easy: 35, Medium: 57, Hard: 10.
+Total: 103, Easy: 36, Medium: 57, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -81,6 +81,7 @@ Total: 102, Easy: 35, Medium: 57, Hard: 10.
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Source](src/main/kotlin/problems/findPeakElement/Solution.kt) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Source](src/main/kotlin/problems/largestNumber/Solution.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Source](src/main/kotlin/problems/numberOf1Bits/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Source](src/main/kotlin/problems/numberOfIslands/Solution.kt) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Source](src/main/kotlin/problems/reverseLinkedList/Solution.kt) |
