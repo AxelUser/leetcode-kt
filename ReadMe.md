@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 104, Easy: 37, Medium: 57, Hard: 10.
+Total: 105, Easy: 38, Medium: 57, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -100,6 +100,7 @@ Total: 104, Easy: 37, Medium: 57, Hard: 10.
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Source](src/main/kotlin/problems/topKFrequentElements/Solution.kt) |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Source](src/main/kotlin/problems/findTheDifference/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
+| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [Source](src/main/kotlin/problems/hammingDistance/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
