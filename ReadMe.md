@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 101, Easy: 34, Medium: 57, Hard: 10.
+Total: 102, Easy: 35, Medium: 57, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -100,6 +100,7 @@ Total: 101, Easy: 34, Medium: 57, Hard: 10.
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
+| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
