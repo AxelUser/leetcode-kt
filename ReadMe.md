@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 105, Easy: 38, Medium: 57, Hard: 10.
+Total: 106, Easy: 38, Medium: 58, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -109,4 +109,5 @@ Total: 105, Easy: 38, Medium: 57, Hard: 10.
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/problems/shortestCommonSupersequence/Solution.kt) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestCommonSubsequence/Solution.kt) |
+| [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Source](src/main/kotlin/problems/maximumLengthOfConcatenatedStringWithUniqueCharacters/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
