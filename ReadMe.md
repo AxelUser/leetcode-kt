@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 106, Easy: 38, Medium: 58, Hard: 10.
+Total: 107, Easy: 39, Medium: 58, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -73,6 +73,7 @@ Total: 106, Easy: 38, Medium: 58, Hard: 10.
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStock2/Solution.kt) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Source](src/main/kotlin/problems/longestConsecutiveSequence/Solution.kt) |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Source](src/main/kotlin/problems/surroundedRegions/Solution.kt) |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | [Source](src/main/kotlin/problems/singleNumber/Solution.kt) |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [Source](src/main/kotlin/problems/wordBreak/Solution.kt) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/problems/linkedListCycle/Solution.kt) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Source](src/main/kotlin/problems/linkedListCycle2/Solution.kt) |
