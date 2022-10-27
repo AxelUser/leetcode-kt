@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 109, Easy: 40, Medium: 59, Hard: 10.
+Total: 110, Easy: 40, Medium: 60, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
