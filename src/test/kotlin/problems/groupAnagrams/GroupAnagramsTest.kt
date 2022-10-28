@@ -10,7 +10,7 @@ internal class GroupAnagramsTest {
     @ParameterizedTest
     @MethodSource("args")
     fun groupAnagrams(strs: Array<String>, expected: List<List<String>>) {
-        val actual = Solution().groupAnagrams(strs)
+        val actual = Solution.groupAnagrams(strs)
 
         assertEquals(normalize(expected), normalize(actual))
     }
