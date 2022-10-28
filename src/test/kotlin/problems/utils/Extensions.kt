@@ -108,7 +108,7 @@ fun TreeNode?.toArrayBfs(): Array<Int?> {
         if (lvl.any { it != null }) res.addAll(lvl)
     }
 
-    return res.toTypedArray()
+    return res.dropLastWhile { it == null }.toTypedArray()
 }
 
 fun Array<CharArray>.stringify2DArray(): String = this.joinToString(separator = "", prefix = System.lineSeparator()) {

@@ -1,7 +1,7 @@
 # Solved problems
 > LeetCode problems solved in Kotlin.
 
-Total: 110, Easy: 40, Medium: 60, Hard: 10.
+Total: 111, Easy: 40, Medium: 61, Hard: 10.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -105,6 +105,7 @@ Total: 110, Easy: 40, Medium: 60, Hard: 10.
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/continuousSubarraySum/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
+| [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [Source](src/main/kotlin/problems/addOneRowToTree/Solution.kt) |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
