@@ -1,5 +1,4 @@
 # Solved problems
-
 > LeetCode problems solved in Kotlin.
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
