@@ -1,7 +1,6 @@
 package readmeGeneration
 
 import org.reflections.Reflections
-import java.lang.StringBuilder
 import java.util.*
 
 class Generator {
@@ -17,8 +16,8 @@ class Generator {
         fun createReadMe(): String {
             val sb = StringBuilder()
             sb.appendLine("# Solved problems")
-            sb.appendLine("> LeetCode problems solved in Kotlin.")
-            sb.appendLine()
+            sb.appendLine("> LeetCode problems solved in Kotlin.\n")
+            sb.appendLine("[Profile on LeetCode](https://leetcode.com/AxelUser/)\n")
             val solutions = getSolutions()
 
             writeDifficultiesCount(solutions, sb)

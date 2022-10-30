@@ -1,7 +1,10 @@
 # Solved problems
+
 > LeetCode problems solved in Kotlin.
 
-Total: 112, Easy: 40, Medium: 61, Hard: 11.
+[Profile on LeetCode](https://leetcode.com/AxelUser/)
+
+Total: 113, Easy: 40, Medium: 61, Hard: 12.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -114,6 +117,7 @@ Total: 112, Easy: 40, Medium: 61, Hard: 11.
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/problems/shortestCommonSupersequence/Solution.kt) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestCommonSubsequence/Solution.kt) |
 | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Source](src/main/kotlin/problems/maximumLengthOfConcatenatedStringWithUniqueCharacters/Solution.kt) |
+| [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | [Source](src/main/kotlin/problems/shortestPathInAGridWithObstaclesElimination/Solution.kt) |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | [Source](src/main/kotlin/problems/earliestPossibleDayOfFullBloom/Solution.kt) |
