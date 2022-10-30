@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 113, Easy: 40, Medium: 61, Hard: 12.
+Total: 114, Easy: 40, Medium: 62, Hard: 12.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -119,4 +119,5 @@ Total: 113, Easy: 40, Medium: 61, Hard: 12.
 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | [Source](src/main/kotlin/problems/shortestPathInAGridWithObstaclesElimination/Solution.kt) |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
+| [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteTheMiddleNodeOfALinkedList/Solution.kt) |
 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | [Source](src/main/kotlin/problems/earliestPossibleDayOfFullBloom/Solution.kt) |
