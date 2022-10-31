@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 118, Easy: 41, Medium: 64, Hard: 13.
+Total: 119, Easy: 41, Medium: 65, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -76,6 +76,7 @@ Total: 118, Easy: 41, Medium: 64, Hard: 13.
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Source](src/main/kotlin/problems/longestConsecutiveSequence/Solution.kt) |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Source](src/main/kotlin/problems/surroundedRegions/Solution.kt) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | [Source](src/main/kotlin/problems/singleNumber/Solution.kt) |
+| [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Source](src/main/kotlin/problems/singleNumber2/Solution.kt) |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [Source](src/main/kotlin/problems/wordBreak/Solution.kt) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Source](src/main/kotlin/problems/linkedListCycle/Solution.kt) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Source](src/main/kotlin/problems/linkedListCycle2/Solution.kt) |
