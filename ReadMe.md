@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 119, Easy: 41, Medium: 65, Hard: 13.
+Total: 120, Easy: 41, Medium: 66, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -97,6 +97,7 @@ Total: 119, Easy: 41, Medium: 65, Hard: 13.
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Source](src/main/kotlin/design/queueOverStacks/MyQueue.kt) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Source](src/main/kotlin/problems/palindromeLinkedList/Solution.kt) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteNodeInALinkedList/Solution.kt) |
+| [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Source](src/main/kotlin/problems/singleNumber3/Solution.kt) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Source](src/main/kotlin/problems/moveZeroes/Solution.kt) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
