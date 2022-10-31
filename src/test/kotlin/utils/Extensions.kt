@@ -1,4 +1,4 @@
-package problems.utils
+package utils
 
 import common.ListNode
 import common.TreeNode
@@ -132,3 +132,5 @@ fun <T> Array<Array<T>>.stringify2DArray(): String =
             postfix = System.lineSeparator()
         )
     }
+
+fun Array<Array<Int>>.toIntMatrix(): Array<IntArray> = this.map { it.toIntArray() }.toTypedArray()

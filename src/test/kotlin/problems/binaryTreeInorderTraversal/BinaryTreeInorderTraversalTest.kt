@@ -3,7 +3,7 @@ package problems.binaryTreeInorderTraversal
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
-import problems.utils.toBinaryTreeBfs
+import utils.toBinaryTreeBfs
 import kotlin.test.assertContentEquals
 
 internal class BinaryTreeInorderTraversalTest {

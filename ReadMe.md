@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 117, Easy: 40, Medium: 64, Hard: 13.
+Total: 118, Easy: 41, Medium: 64, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -111,6 +111,7 @@ Total: 117, Easy: 40, Medium: 64, Hard: 13.
 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [Source](src/main/kotlin/problems/addOneRowToTree/Solution.kt) |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
+| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Source](src/main/kotlin/problems/toeplitzMatrix/Solution.kt) |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |

@@ -3,8 +3,8 @@ package problems.mergeTwoSortedLists
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
-import problems.utils.toArray
-import problems.utils.toListNode
+import utils.toArray
+import utils.toListNode
 import kotlin.test.assertContentEquals
 
 internal class MergeTwoSortedListsTest {

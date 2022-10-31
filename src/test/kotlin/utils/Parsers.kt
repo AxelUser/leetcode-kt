@@ -1,4 +1,4 @@
-package problems.utils
+package utils
 
 fun parseInt2DArray(string: String): Array<Array<Int>> {
     val rowRegex = Regex("\\[[\\d+,]+]")

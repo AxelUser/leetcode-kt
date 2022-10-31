@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
-import problems.utils.get
-import problems.utils.loop
-import problems.utils.toListNode
+import utils.get
+import utils.loop
+import utils.toListNode
 
 internal class LinkedListCycle2Test {
 

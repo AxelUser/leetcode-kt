@@ -3,9 +3,9 @@ package problems.deleteNodeInALinkedList
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
-import problems.utils.get
-import problems.utils.toArray
-import problems.utils.toListNode
+import utils.get
+import utils.toArray
+import utils.toListNode
 import kotlin.test.assertContentEquals
 
 internal class DeleteNodeInALinkedListTest {
