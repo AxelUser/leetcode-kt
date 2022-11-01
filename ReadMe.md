@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 120, Easy: 41, Medium: 66, Hard: 13.
+Total: 121, Easy: 41, Medium: 67, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -124,6 +124,7 @@ Total: 120, Easy: 41, Medium: 66, Hard: 13.
 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | [Source](src/main/kotlin/problems/breakAPalindrome/Solution.kt) |
 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | Hard | [Source](src/main/kotlin/problems/stringCompression2/Solution.kt) |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
+| [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | [Source](src/main/kotlin/problems/whereWillTheBallFall/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteTheMiddleNodeOfALinkedList/Solution.kt) |
 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | [Source](src/main/kotlin/problems/earliestPossibleDayOfFullBloom/Solution.kt) |
