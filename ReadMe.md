@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 121, Easy: 41, Medium: 67, Hard: 13.
+Total: 122, Easy: 41, Medium: 68, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -106,6 +106,7 @@ Total: 121, Easy: 41, Medium: 67, Hard: 13.
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Source](src/main/kotlin/problems/topKFrequentElements/Solution.kt) |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Source](src/main/kotlin/problems/findTheDifference/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
+| [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Source](src/main/kotlin/problems/minimumGeneticMutation/Solution.kt) |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [Source](src/main/kotlin/problems/hammingDistance/Solution.kt) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/continuousSubarraySum/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
