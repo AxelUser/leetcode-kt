@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 122, Easy: 41, Medium: 68, Hard: 13.
+Total: 123, Easy: 42, Medium: 68, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -68,6 +68,7 @@ Total: 122, Easy: 41, Medium: 68, Hard: 13.
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Source](src/main/kotlin/problems/binaryTreeLevelOrderTraversal/Solution.kt) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/maximumDepthOfBinaryTree/Solution.kt) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Source](src/main/kotlin/problems/constructBinaryTreeFromPreorderAndInorderTraversal/Solution.kt) |
+| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [Source](src/main/kotlin/problems/convertSortedArrayToBinarySearchTree/Solution.kt) |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Source](src/main/kotlin/problems/pathSum/Solution.kt) |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [Source](src/main/kotlin/problems/flattenBinaryTreeToLinkedList/Solution.kt) |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Source](src/main/kotlin/problems/pascalsTriangle/Solution.kt) |
