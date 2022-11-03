@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 123, Easy: 42, Medium: 68, Hard: 13.
+Total: 124, Easy: 42, Medium: 69, Hard: 13.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -129,4 +129,5 @@ Total: 123, Easy: 42, Medium: 68, Hard: 13.
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | [Source](src/main/kotlin/problems/whereWillTheBallFall/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteTheMiddleNodeOfALinkedList/Solution.kt) |
+| [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Source](src/main/kotlin/problems/longestPalindromeByConcatenatingTwoLetterWords/Solution.kt) |
 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | [Source](src/main/kotlin/problems/earliestPossibleDayOfFullBloom/Solution.kt) |
