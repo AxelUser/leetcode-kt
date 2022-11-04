@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 127, Easy: 44, Medium: 69, Hard: 14.
+Total: 128, Easy: 45, Medium: 69, Hard: 14.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -85,6 +85,7 @@ Total: 127, Easy: 44, Medium: 69, Hard: 14.
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Source](src/main/kotlin/problems/intersectionOfTwoLinkedLists/Solution.kt) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Source](src/main/kotlin/problems/findPeakElement/Solution.kt) |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Source](src/main/kotlin/problems/majorityElement/Solution.kt) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Source](src/main/kotlin/problems/largestNumber/Solution.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Source](src/main/kotlin/problems/numberOf1Bits/Solution.kt) |
