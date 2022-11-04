@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 126, Easy: 43, Medium: 69, Hard: 14.
+Total: 127, Easy: 44, Medium: 69, Hard: 14.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -106,6 +106,7 @@ Total: 126, Easy: 43, Medium: 69, Hard: 14.
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/problems/coinChange/Solution.kt) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
+| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [Source](src/main/kotlin/problems/reverseVowelsOfAString/Solution.kt) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Source](src/main/kotlin/problems/topKFrequentElements/Solution.kt) |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Source](src/main/kotlin/problems/findTheDifference/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
