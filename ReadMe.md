@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 128, Easy: 45, Medium: 69, Hard: 14.
+Total: 129, Easy: 46, Medium: 69, Hard: 14.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -88,6 +88,7 @@ Total: 128, Easy: 45, Medium: 69, Hard: 14.
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Source](src/main/kotlin/problems/majorityElement/Solution.kt) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Source](src/main/kotlin/problems/largestNumber/Solution.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
+| [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [Source](src/main/kotlin/problems/reverseBits/Solution.kt) |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Source](src/main/kotlin/problems/numberOf1Bits/Solution.kt) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Source](src/main/kotlin/problems/houseRobber/Solution.kt) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Source](src/main/kotlin/problems/numberOfIslands/Solution.kt) |
