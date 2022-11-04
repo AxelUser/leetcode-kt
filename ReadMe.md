@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 125, Easy: 42, Medium: 69, Hard: 14.
+Total: 126, Easy: 43, Medium: 69, Hard: 14.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -83,6 +83,7 @@ Total: 125, Easy: 42, Medium: 69, Hard: 14.
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Source](src/main/kotlin/problems/linkedListCycle2/Solution.kt) |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/problems/findMinimumInRotatedSortedArray/Solution.kt) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Source](src/main/kotlin/design/minStack/MinStack.kt) |
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Source](src/main/kotlin/problems/intersectionOfTwoLinkedLists/Solution.kt) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Source](src/main/kotlin/problems/findPeakElement/Solution.kt) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Source](src/main/kotlin/problems/largestNumber/Solution.kt) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Source](src/main/kotlin/problems/rotateArray/Solution.kt) |
