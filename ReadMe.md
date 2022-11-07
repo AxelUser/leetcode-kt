@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 131, Easy: 46, Medium: 69, Hard: 16.
+Total: 132, Easy: 47, Medium: 69, Hard: 16.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -130,6 +130,7 @@ Total: 131, Easy: 46, Medium: 69, Hard: 16.
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestCommonSubsequence/Solution.kt) |
 | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Source](src/main/kotlin/problems/maximumLengthOfConcatenatedStringWithUniqueCharacters/Solution.kt) |
 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | [Source](src/main/kotlin/problems/shortestPathInAGridWithObstaclesElimination/Solution.kt) |
+| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | [Source](src/main/kotlin/problems/maximum69Number/Solution.kt) |
 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | [Source](src/main/kotlin/problems/breakAPalindrome/Solution.kt) |
 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | Hard | [Source](src/main/kotlin/problems/stringCompression2/Solution.kt) |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
