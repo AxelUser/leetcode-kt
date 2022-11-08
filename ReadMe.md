@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 132, Easy: 47, Medium: 69, Hard: 16.
+Total: 133, Easy: 48, Medium: 69, Hard: 16.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -133,6 +133,7 @@ Total: 132, Easy: 47, Medium: 69, Hard: 16.
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | [Source](src/main/kotlin/problems/maximum69Number/Solution.kt) |
 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | [Source](src/main/kotlin/problems/breakAPalindrome/Solution.kt) |
 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | Hard | [Source](src/main/kotlin/problems/stringCompression2/Solution.kt) |
+| [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | [Source](src/main/kotlin/problems/makeTheStringGreat/Solution.kt) |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | [Source](src/main/kotlin/problems/whereWillTheBallFall/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
