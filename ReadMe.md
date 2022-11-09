@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 133, Easy: 48, Medium: 69, Hard: 16.
+Total: 134, Easy: 48, Medium: 70, Hard: 16.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -124,6 +124,7 @@ Total: 133, Easy: 48, Medium: 69, Hard: 16.
 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Source](src/main/kotlin/problems/toeplitzMatrix/Solution.kt) |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | [Source](src/main/kotlin/problems/orderlyQueue/Solution.kt) |
+| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Source](src/main/kotlin/design/onlineStockSpan/StockSpanner.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/problems/shortestCommonSupersequence/Solution.kt) |
