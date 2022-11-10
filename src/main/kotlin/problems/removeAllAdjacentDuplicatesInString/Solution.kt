@@ -6,7 +6,7 @@ import java.util.*
 
 @ProblemSolution(
     1047,
-    "v",
+    "Remove All Adjacent Duplicates In String",
     ProblemDifficulty.EASY,
     "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/"
 )
