@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 134, Easy: 48, Medium: 70, Hard: 16.
+Total: 135, Easy: 49, Medium: 70, Hard: 16.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -127,6 +127,7 @@ Total: 134, Easy: 48, Medium: 70, Hard: 16.
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Source](src/main/kotlin/design/onlineStockSpan/StockSpanner.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
+| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [Source](src/main/kotlin/problems/removeAllAdjacentDuplicatesInString/Solution.kt) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Source](src/main/kotlin/problems/shortestCommonSupersequence/Solution.kt) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestCommonSubsequence/Solution.kt) |
 | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Source](src/main/kotlin/problems/maximumLengthOfConcatenatedStringWithUniqueCharacters/Solution.kt) |
