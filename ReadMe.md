@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 135, Easy: 49, Medium: 70, Hard: 16.
+Total: 136, Easy: 49, Medium: 70, Hard: 17.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -106,6 +106,7 @@ Total: 135, Easy: 49, Medium: 70, Hard: 16.
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Source](src/main/kotlin/problems/singleNumber3/Solution.kt) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Source](src/main/kotlin/problems/moveZeroes/Solution.kt) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Source](src/main/kotlin/design/medianFinder/MedianFinder.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/problems/coinChange/Solution.kt) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
