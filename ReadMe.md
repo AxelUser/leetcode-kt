@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 137, Easy: 49, Medium: 71, Hard: 17.
+Total: 138, Easy: 49, Medium: 72, Hard: 17.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -127,6 +127,7 @@ Total: 137, Easy: 49, Medium: 71, Hard: 17.
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | [Source](src/main/kotlin/problems/orderlyQueue/Solution.kt) |
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Source](src/main/kotlin/design/onlineStockSpan/StockSpanner.kt) |
+| [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [Source](src/main/kotlin/problems/mostStonesRemovedWithSameRowOrColumn/Solution.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [Source](src/main/kotlin/problems/removeAllAdjacentDuplicatesInString/Solution.kt) |
