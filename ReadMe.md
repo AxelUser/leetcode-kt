@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 139, Easy: 49, Medium: 73, Hard: 17.
+Total: 140, Easy: 50, Medium: 73, Hard: 17.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -114,6 +114,7 @@ Total: 139, Easy: 49, Medium: 73, Hard: 17.
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [Source](src/main/kotlin/problems/reverseVowelsOfAString/Solution.kt) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Source](src/main/kotlin/problems/topKFrequentElements/Solution.kt) |
+| [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Source](src/main/kotlin/problems/guessNumberHigherOrLower/Solution.kt) |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Source](src/main/kotlin/problems/findTheDifference/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Source](src/main/kotlin/problems/minimumGeneticMutation/Solution.kt) |
