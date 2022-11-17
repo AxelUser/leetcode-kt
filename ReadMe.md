@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 140, Easy: 50, Medium: 73, Hard: 17.
+Total: 141, Easy: 50, Medium: 74, Hard: 17.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -98,6 +98,7 @@ Total: 140, Easy: 50, Medium: 73, Hard: 17.
 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [Source](src/main/kotlin/problems/wordSearch2/Solution.kt) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Source](src/main/kotlin/problems/containsDuplicate2/Solution.kt) |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [Source](src/main/kotlin/problems/countCompleteTreeNodes/Solution.kt) |
+| [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | [Source](src/main/kotlin/problems/rectangleArea/Solution.kt) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Source](src/main/kotlin/problems/basicCalculator/Solution.kt) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Source](src/main/kotlin/design/stackOverQueues/MyStack.kt) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Source](src/main/kotlin/problems/invertBinaryTree/Solution.kt) |
