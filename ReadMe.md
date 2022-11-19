@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 142, Easy: 51, Medium: 74, Hard: 17.
+Total: 143, Easy: 51, Medium: 74, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -124,6 +124,7 @@ Total: 142, Easy: 51, Medium: 74, Hard: 17.
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/continuousSubarraySum/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
+| [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | Hard | [Source](src/main/kotlin/problems/erectTheFence/Solution.kt) |
 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [Source](src/main/kotlin/problems/addOneRowToTree/Solution.kt) |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
