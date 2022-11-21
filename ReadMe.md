@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 143, Easy: 51, Medium: 74, Hard: 18.
+Total: 144, Easy: 51, Medium: 75, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -147,6 +147,7 @@ Total: 143, Easy: 51, Medium: 74, Hard: 18.
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Source](src/main/kotlin/problems/checkIfTwoStringArraysAreEquivalent/Solution.kt) |
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | [Source](src/main/kotlin/problems/whereWillTheBallFall/Solution.kt) |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [Source](src/main/kotlin/problems/checkIfTheSentenceIsPangram/Solution.kt) |
+| [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | [Source](src/main/kotlin/problems/nearestExitFromEntranceInMaze/Solution.kt) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteTheMiddleNodeOfALinkedList/Solution.kt) |
 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Source](src/main/kotlin/problems/longestPalindromeByConcatenatingTwoLetterWords/Solution.kt) |
 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | [Source](src/main/kotlin/problems/earliestPossibleDayOfFullBloom/Solution.kt) |
