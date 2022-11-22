@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 144, Easy: 51, Medium: 75, Hard: 18.
+Total: 145, Easy: 51, Medium: 76, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -108,6 +108,7 @@ Total: 144, Easy: 51, Medium: 75, Hard: 18.
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Source](src/main/kotlin/problems/slidingWindowMaximum/Solution.kt) |
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Source](src/main/kotlin/problems/singleNumber3/Solution.kt) |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Source](src/main/kotlin/problems/uglyNumber/Solution.kt) |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Source](src/main/kotlin/problems/perfectSquares/Solution.kt) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Source](src/main/kotlin/problems/moveZeroes/Solution.kt) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Source](src/main/kotlin/design/medianFinder/MedianFinder.kt) |
