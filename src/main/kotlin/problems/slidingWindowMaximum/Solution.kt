@@ -16,15 +16,15 @@ object Solution {
         val deq = ArrayDeque<Int>()
 
         for (i in nums.indices) {
+            if (deq.isNotEmpty() && deq.first == i - k) {
+                deq.removeFirst()
+            }
+
             while (deq.isNotEmpty() && nums[deq.last] <= nums[i]) {
                 deq.removeLast()
             }
 
             deq.addLast(i)
-
-            if (deq.first == i - k) {
-                deq.removeFirst()
-            }
 
             if (i >= k - 1) {
                 res[i - k + 1] = nums[deq.first]
