@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 147, Easy: 53, Medium: 76, Hard: 18.
+Total: 148, Easy: 54, Medium: 76, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -108,6 +108,7 @@ Total: 147, Easy: 53, Medium: 76, Hard: 18.
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Source](src/main/kotlin/problems/palindromeLinkedList/Solution.kt) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Source](src/main/kotlin/problems/deleteNodeInALinkedList/Solution.kt) |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Source](src/main/kotlin/problems/slidingWindowMaximum/Solution.kt) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Source](src/main/kotlin/problems/validAnagram/Solution.kt) |
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Source](src/main/kotlin/problems/singleNumber3/Solution.kt) |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Source](src/main/kotlin/problems/uglyNumber/Solution.kt) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Source](src/main/kotlin/problems/perfectSquares/Solution.kt) |
