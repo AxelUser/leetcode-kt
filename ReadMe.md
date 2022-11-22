@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 145, Easy: 51, Medium: 76, Hard: 18.
+Total: 146, Easy: 52, Medium: 76, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -64,6 +64,7 @@ Total: 145, Easy: 51, Medium: 76, Hard: 18.
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Source](src/main/kotlin/problems/binaryTreeInorderTraversal/Solution.kt) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/problems/uniqueBinarySearchTrees/Solution.kt) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Source](src/main/kotlin/problems/validateBinarySearchTree/Solution.kt) |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Source](src/main/kotlin/problems/sameTree/Solution.kt) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Source](src/main/kotlin/problems/symmetricTree/Solution.kt) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Source](src/main/kotlin/problems/binaryTreeLevelOrderTraversal/Solution.kt) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/maximumDepthOfBinaryTree/Solution.kt) |
