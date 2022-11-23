@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 151, Easy: 55, Medium: 77, Hard: 19.
+Total: 152, Easy: 55, Medium: 77, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -127,6 +127,7 @@ Total: 151, Easy: 55, Medium: 77, Hard: 19.
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Source](src/main/kotlin/problems/minimumGeneticMutation/Solution.kt) |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [Source](src/main/kotlin/problems/hammingDistance/Solution.kt) |
+| [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard | [Source](src/main/kotlin/problems/slidingWindowMedian/Solution.kt) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/continuousSubarraySum/Solution.kt) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Source](src/main/kotlin/problems/diameterOfBinaryTree/Solution.kt) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Source](src/main/kotlin/problems/numberOfProvinces/Solution.kt) |
