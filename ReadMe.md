@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 149, Easy: 55, Medium: 76, Hard: 18.
+Total: 150, Easy: 55, Medium: 77, Hard: 18.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -34,6 +34,7 @@ Total: 149, Easy: 55, Medium: 76, Hard: 18.
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Source](src/main/kotlin/problems/searchInRotatedSortedArray/Solution.kt) |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Source](src/main/kotlin/problems/findFirstAndLastPositionOfElementInSortedArray/Solution.kt) |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Source](src/main/kotlin/problems/searchInsertPosition/Solution.kt) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Source](src/main/kotlin/problems/validSudoku/Solution.kt) |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Source](src/main/kotlin/problems/countAndSay/Solution.kt) |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Source](src/main/kotlin/problems/firstMissingPositive/Solution.kt) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Source](src/main/kotlin/problems/trappingRainWater/Solution.kt) |
