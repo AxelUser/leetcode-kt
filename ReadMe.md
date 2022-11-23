@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 150, Easy: 55, Medium: 77, Hard: 18.
+Total: 151, Easy: 55, Medium: 77, Hard: 19.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -117,6 +117,7 @@ Total: 150, Easy: 55, Medium: 77, Hard: 18.
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Source](src/main/kotlin/problems/findTheDuplicateNumber/Solution.kt) |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Source](src/main/kotlin/design/medianFinder/MedianFinder.kt) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Source](src/main/kotlin/problems/longestIncreasingSubsequence/Solution.kt) |
+| [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [Source](src/main/kotlin/problems/removeInvalidParentheses/Solution.kt) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Source](src/main/kotlin/problems/coinChange/Solution.kt) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Source](src/main/kotlin/problems/countingBits/Solution.kt) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | [Source](src/main/kotlin/problems/reverseVowelsOfAString/Solution.kt) |
