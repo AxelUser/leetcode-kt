@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 153, Easy: 55, Medium: 78, Hard: 20.
+Total: 154, Easy: 55, Medium: 79, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -137,6 +137,7 @@ Total: 153, Easy: 55, Medium: 78, Hard: 20.
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Source](src/main/kotlin/problems/binarySearch/Solution.kt) |
+| [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Source](src/main/kotlin/problems/partitionLabels/Solution.kt) |
 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Source](src/main/kotlin/problems/toeplitzMatrix/Solution.kt) |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | [Source](src/main/kotlin/problems/orderlyQueue/Solution.kt) |
