@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 154, Easy: 55, Medium: 79, Hard: 20.
+Total: 155, Easy: 55, Medium: 80, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -142,6 +142,7 @@ Total: 154, Easy: 55, Medium: 79, Hard: 20.
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | [Source](src/main/kotlin/problems/orderlyQueue/Solution.kt) |
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Source](src/main/kotlin/design/onlineStockSpan/StockSpanner.kt) |
+| [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Source](src/main/kotlin/problems/sumOfSubarrayMinimums/Solution.kt) |
 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [Source](src/main/kotlin/problems/mostStonesRemovedWithSameRowOrColumn/Solution.kt) |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Source](src/main/kotlin/problems/findTheTownJudge/Solution.kt) |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [Source](src/main/kotlin/problems/partitionArrayForMaximumSum/Solution.kt) |
