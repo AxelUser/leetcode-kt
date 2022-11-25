@@ -1,4 +1,4 @@
-package problems.threeSum
+package problems.sum3
 
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution

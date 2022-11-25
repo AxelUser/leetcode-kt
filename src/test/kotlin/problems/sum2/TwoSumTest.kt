@@ -1,4 +1,4 @@
-package problems.twoSum
+package problems.sum2
 
 import org.junit.jupiter.api.Assertions.assertArrayEquals
 import org.junit.jupiter.params.ParameterizedTest

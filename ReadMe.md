@@ -7,7 +7,7 @@ Total: 155, Easy: 55, Medium: 80, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Source](src/main/kotlin/problems/twoSum/Solution.kt) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Source](src/main/kotlin/problems/sum2/Solution.kt) |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Source](src/main/kotlin/problems/addTwoNumbers/Solution.kt) |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Source](src/main/kotlin/problems/lengthOfLongestSubstring/Solution.kt) |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Source](src/main/kotlin/problems/findMedianSortedArrays/Solution.kt) |
@@ -19,7 +19,7 @@ Total: 155, Easy: 55, Medium: 80, Hard: 20.
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Source](src/main/kotlin/problems/containerWithMostWater/Solution.kt) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Source](src/main/kotlin/problems/integerToRoman/Solution.kt) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Source](src/main/kotlin/problems/longestCommonPrefix/Solution.kt) |
-| [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/problems/threeSum/Solution.kt) |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/problems/sum3/Solution.kt) |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/problems/letterCombinationsOfPhoneNumber/Solution.kt) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Source](src/main/kotlin/problems/removeNthNodeFromEndOfList/Solution.kt) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Source](src/main/kotlin/problems/validParentheses/Solution.kt) |
