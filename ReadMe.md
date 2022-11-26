@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 155, Easy: 55, Medium: 80, Hard: 20.
+Total: 156, Easy: 55, Medium: 81, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ Total: 155, Easy: 55, Medium: 80, Hard: 20.
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Source](src/main/kotlin/problems/longestCommonPrefix/Solution.kt) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Source](src/main/kotlin/problems/sum3/Solution.kt) |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Source](src/main/kotlin/problems/letterCombinationsOfPhoneNumber/Solution.kt) |
+| [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | [Source](src/main/kotlin/problems/sum4/Solution.kt) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Source](src/main/kotlin/problems/removeNthNodeFromEndOfList/Solution.kt) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Source](src/main/kotlin/problems/validParentheses/Solution.kt) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Source](src/main/kotlin/problems/mergeTwoSortedLists/Solution.kt) |
