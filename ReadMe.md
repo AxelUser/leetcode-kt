@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 156, Easy: 55, Medium: 81, Hard: 20.
+Total: 157, Easy: 55, Medium: 82, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -128,6 +128,7 @@ Total: 156, Easy: 55, Medium: 81, Hard: 20.
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Source](src/main/kotlin/problems/findTheDifference/Solution.kt) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Source](src/main/kotlin/problems/decodeString/Solution.kt) |
 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Source](src/main/kotlin/problems/minimumGeneticMutation/Solution.kt) |
+| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Source](src/main/kotlin/problems/findAllAnagramsInAString/Solution.kt) |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [Source](src/main/kotlin/problems/hammingDistance/Solution.kt) |
 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard | [Source](src/main/kotlin/problems/slidingWindowMedian/Solution.kt) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Source](src/main/kotlin/problems/continuousSubarraySum/Solution.kt) |

@@ -3,23 +3,25 @@ package problems.searchInRotatedSortedArray
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
 
-@ProblemSolution(33, "Search in Rotated Sorted Array", ProblemDifficulty.MEDIUM,
-    "https://leetcode.com/problems/search-in-rotated-sorted-array/")
+@ProblemSolution(
+    33, "Search in Rotated Sorted Array", ProblemDifficulty.MEDIUM,
+    "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+)
 class Solution {
     fun search(nums: IntArray, target: Int): Int {
-        if(nums.isEmpty()) return -1
+        if (nums.isEmpty()) return -1
 
-        return binarySearch(nums, target, 0, nums.size - 1)
+        return binarySearch(nums, target, 0, nums.lastIndex)
     }
 
     private fun binarySearch(nums: IntArray, target: Int, l: Int, r: Int): Int {
-        if(l > r) return -1
+        if (l > r) return -1
 
-        val mid = (l + r) / 2
+        val mid = l + (l - r) / 2
         if (nums[mid] == target) return mid
 
         if (nums[l] <= nums[mid]) {
-            if(target >= nums[l] && target < nums[mid]) {
+            if (target >= nums[l] && target < nums[mid]) {
                 return binarySearch(nums, target, l, mid - 1)
             }
 
