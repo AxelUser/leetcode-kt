@@ -9,16 +9,16 @@ class Solution {
     fun reverseList(head: ListNode?): ListNode? {
         if (head == null) return null
 
-        var newHead: ListNode? = ListNode(head.`val`)
+        var prev = head
         var cur = head.next
+        prev.next = null
         while (cur != null) {
-            val h = ListNode(cur.`val`)
-            h.next = newHead
-
-            newHead = h
-            cur = cur.next
+            val cNext = cur.next
+            cur.next = prev
+            prev = cur
+            cur = cNext
         }
 
-        return newHead
+        return prev
     }
 }
