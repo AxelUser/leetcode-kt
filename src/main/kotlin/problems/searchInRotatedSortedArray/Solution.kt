@@ -17,7 +17,7 @@ class Solution {
     private fun binarySearch(nums: IntArray, target: Int, l: Int, r: Int): Int {
         if (l > r) return -1
 
-        val mid = l + (l - r) / 2
+        val mid = l + (r - l) / 2
         if (nums[mid] == target) return mid
 
         if (nums[l] <= nums[mid]) {
