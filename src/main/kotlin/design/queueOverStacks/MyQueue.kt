@@ -2,7 +2,7 @@ package design.queueOverStacks
 
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import java.util.Stack
+import java.util.*
 
 @ProblemSolution(
     232,
@@ -11,28 +11,34 @@ import java.util.Stack
     "https://leetcode.com/problems/implement-queue-using-stacks/"
 )
 class MyQueue {
-    private var stack = Stack<Int>()
+    private var pushStack = Stack<Int>()
+    private var popStack = Stack<Int>()
 
     fun push(x: Int) {
-        val temp = Stack<Int>()
-        while (stack.isNotEmpty()) {
-            temp.push(stack.pop())
-        }
-        temp.push(x)
-        while (temp.isNotEmpty()) {
-            stack.push(temp.pop())
-        }
+        pushStack.push(x)
     }
 
     fun pop(): Int {
-        return stack.pop()
+        if (popStack.isEmpty()) {
+            while (pushStack.isNotEmpty()) {
+                popStack.push(pushStack.pop())
+            }
+        }
+
+        return popStack.pop()
     }
 
     fun peek(): Int {
-        return stack.peek()
+        if (popStack.isEmpty()) {
+            while (pushStack.isNotEmpty()) {
+                popStack.push(pushStack.pop())
+            }
+        }
+
+        return popStack.peek()
     }
 
     fun empty(): Boolean {
-        return stack.empty()
+        return pushStack.isEmpty() && popStack.isEmpty()
     }
 }
