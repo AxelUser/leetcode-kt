@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 158, Easy: 55, Medium: 83, Hard: 20.
+Total: 159, Easy: 55, Medium: 84, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -140,6 +140,7 @@ Total: 158, Easy: 55, Medium: 83, Hard: 20.
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Source](src/main/kotlin/problems/setMismatch/Solution.kt) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Source](src/main/kotlin/problems/topKFrequentWords/Solution.kt) |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Source](src/main/kotlin/problems/binarySearch/Solution.kt) |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [Source](src/main/kotlin/problems/bestTimeToBuyAndSellStockWithTransactionFee/Solution.kt) |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Source](src/main/kotlin/problems/partitionLabels/Solution.kt) |
 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [Source](src/main/kotlin/problems/toeplitzMatrix/Solution.kt) |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [Source](src/main/kotlin/problems/imageOverlap/Solution.kt) |
