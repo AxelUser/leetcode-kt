@@ -2,8 +2,7 @@ package design.stackOverQueues
 
 import readmeGeneration.ProblemDifficulty
 import readmeGeneration.ProblemSolution
-import java.util.LinkedList
-import java.util.Queue
+import java.util.*
 
 @ProblemSolution(
     225,
@@ -16,8 +15,7 @@ class MyStack {
 
     fun push(x: Int) {
         queue.add(x)
-        val size = queue.size
-        for (i in 0 until size - 1) {
+        repeat(queue.size - 1) {
             queue.add(queue.poll())
         }
     }
