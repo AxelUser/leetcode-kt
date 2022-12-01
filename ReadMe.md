@@ -3,7 +3,7 @@
 
 [Profile on LeetCode](https://leetcode.com/AxelUser/)
 
-Total: 161, Easy: 56, Medium: 85, Hard: 20.
+Total: 162, Easy: 56, Medium: 86, Hard: 20.
 
 | Name | Difficulty | Solution |
 | --- | --- | --- |
@@ -62,6 +62,7 @@ Total: 161, Easy: 56, Medium: 85, Hard: 20.
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Source](src/main/kotlin/problems/minimumWindowSubstring/Solution.kt) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Source](src/main/kotlin/problems/wordSearch/Solution.kt) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/removeDuplicatesFromSortedArray2/Solution.kt) |
+| [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Source](src/main/kotlin/problems/searchInRotatedSortedArray2/Solution.kt) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Source](src/main/kotlin/problems/mergeSortedArray/Solution.kt) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Source](src/main/kotlin/problems/binaryTreeInorderTraversal/Solution.kt) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [Source](src/main/kotlin/problems/uniqueBinarySearchTrees/Solution.kt) |
