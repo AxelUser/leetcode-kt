@@ -9,29 +9,35 @@ import readmeGeneration.ProblemSolution
 )
 class Solution {
     fun search(nums: IntArray, target: Int): Int {
-        if (nums.isEmpty()) return -1
-
-        return binarySearch(nums, target, 0, nums.lastIndex)
+        return binarySearch(nums, 0, nums.lastIndex, target)
     }
 
-    private fun binarySearch(nums: IntArray, target: Int, l: Int, r: Int): Int {
-        if (l > r) return -1
+    private fun binarySearch(nums: IntArray, lo: Int, hi: Int, target: Int): Int {
+        if (hi < lo) return -1
 
-        val mid = l + (r - l) / 2
-        if (nums[mid] == target) return mid
+        val mid = lo + (hi - lo) / 2
+        println(mid)
 
-        if (nums[l] <= nums[mid]) {
-            if (target >= nums[l] && target < nums[mid]) {
-                return binarySearch(nums, target, l, mid - 1)
+        if (target == nums[mid]) return mid
+
+        // if left part is sorted
+        if (nums[lo] <= nums[mid]) {
+            // if target is in left
+            if (target >= nums[lo] && target < nums[mid]) {
+                return binarySearch(nums, lo, mid - 1, target)
             }
-
-            return binarySearch(nums, target, mid + 1, r)
+            // else search in right
+            return binarySearch(nums, mid + 1, hi, target)
         }
 
-        if (target > nums[mid] && target <= nums[r]) {
-            return binarySearch(nums, target, mid + 1, r)
+        // left part is not sorted then
+
+        // if target is in sorted right
+        if (target > nums[mid] && target <= nums[hi]) {
+            return binarySearch(nums, mid + 1, hi, target)
         }
 
-        return binarySearch(nums, target, l, mid - 1)
+        // else search in left
+        return binarySearch(nums, lo, mid - 1, target)
     }
 }
